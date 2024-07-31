@@ -4,31 +4,52 @@ Welcome to my repository showcasing projects and skills gained from my data scie
 🏆 Bootcamp Overview
 During my bootcamp at Gomycode Harckerspace, Yaba, I embarked on a journey to master a range of data science skills. Here’s a snapshot of what I learned:
 
+
 SQL: Efficient querying, data manipulation, and database management.
+
 Python: The primary language for data analysis and machine learning.
+
 Pandas: Data manipulation and analysis with powerful DataFrame structures.
+
 Numpy: Numerical computations and operations on large arrays.
+
 Power BI: Business intelligence and interactive data visualizations.
+
 Beautiful Soup: Web scraping and HTML parsing for data extraction.
+
 Web Scraping: Techniques to extract data from websites.
+
 Visualization: Creating meaningful visual representations of data.
+
 Machine Learning: Building predictive models and algorithms.
+
 Deep Learning: Advanced neural networks for complex data analysis.
+
+
 📁 Repository Contents
 This repository includes various projects that showcase the application of these skills. Here’s a brief overview of what you will find:
 
 SQL Queries: Examples of complex SQL queries used for data extraction and manipulation.
+
 Python Notebooks: Jupyter notebooks demonstrating data analysis, machine learning models, and deep learning algorithms.
+
 Data Visualizations: Power BI dashboards and visualizations created to interpret and present data insights.
+
 Web Scraping Projects: Scripts using Beautiful Soup to scrape and process data from websites.
+
 ML & DL Models: Implementations of machine learning and deep learning models with detailed explanations.
+
 ⚙️ Technologies Used
 Here’s a list of the technologies and tools you’ll find in this repository:
 
 Languages: Python, SQL
+
 Libraries: Pandas, Numpy, Scikit-learn, TensorFlow/Keras
+
 Tools: Power BI, Jupyter Notebook, Beautiful Soup
+
 Techniques: Data Cleaning, Data Visualization, Machine Learning, Deep Learning
+
 🚀 Getting Started
 To get started with the projects in this repository:
 
